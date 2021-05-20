@@ -3,4 +3,4 @@
 
 | 資料名稱              | 資料更新頻率 | 資料          |
 | -------------------- | --------- | ------------ |
-| 台灣疫苗接種           | 每天       | [資料](https://github.com/cwgrouptw/data/blob/main/covid-19/taiwan-vaccinations.csv) |
+| 台灣各縣市疫苗接種人數           | 每天       | [資料](https://github.com/cwgrouptw/data/blob/main/covid-19/taiwan-vaccinations.csv) |
