@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
