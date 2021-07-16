@@ -13,9 +13,6 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: GPG off
-        run: git config --local commit.gpgsign false
-
       # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch Taiwan COVID Vaccinations
         uses: githubocto/flat@v3
