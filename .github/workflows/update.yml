@@ -3,18 +3,15 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v2
-
-      - name: GPG off
-        run: git config --local commit.gpgsign false
 
       # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch Taiwan COVID Vaccinations
