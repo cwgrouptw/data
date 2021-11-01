@@ -1,4 +1,4 @@
-Date,Period,Y8-ASW,Y8,Y9,Y8-RECCE,Y8-EW,Y8-ELINT,Y-9 EW,H6,H-6K,JH7,J7,J10,J11,J16,SU30,KJ-500	,Z9-ASW,Z8,Mi17-Cargo,WZ-10Attack,Y8-C3,source
+Date,Period,Y8-ASW,Y8,Y9,Y8-RECCE,Y8-EW,Y8-ELINT,Y9-EW,H6,H6K,JH-7,J-7,J-10,J-11,J-16,SU-30,KJ-500,Z9-ASW,Z8,Mi17-Cargo,WZ-10-Attack,Y8-C3,source
 2020-09-16,N/A,2,,,,,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=77345&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2020-09-18,上午,,,,,,,,2,,,,4,4,8,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=77350&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2020-09-19,上午,1,,,,,,,2,,,,2,2,12,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=77351&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
@@ -214,7 +214,7 @@ Date,Period,Y8-ASW,Y8,Y9,Y8-RECCE,Y8-EW,Y8-ELINT,Y-9 EW,H6,H-6K,JH7,J7,J10,J11,J
 2021-08-26,下午,1,,,,,,,,,,,,,,,,1,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79008&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-08-27,上午,1,,,,,,,,,,,,,,,,,2,,,,https://www.mnd.gov.tw/Publish.aspx?p=79011&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-08-29,上午,,,,1,,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79014&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
-2021-08-30,上午,,,,1,,,,,,,,,,,,,,,,,,
+2021-08-30,上午,,,,1,,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79016&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-09-01,上午,,,,1,,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79028&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-09-03,上午,1,,,,,1,,,2,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79030&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-09-04,N/A,2,,,,,,,,,2,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79034&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
@@ -266,3 +266,6 @@ Date,Period,Y8-ASW,Y8,Y9,Y8-RECCE,Y8-EW,Y8-ELINT,Y-9 EW,H6,H-6K,JH7,J7,J10,J11,J
 2021-10-25,日間,,,,,1,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79233&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-10-26,日間,,,,1,1,,,,,,,,,2,,,,,1,1,1,https://www.mnd.gov.tw/Publish.aspx?p=79235&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
 2021-10-27,日間,1,,,,,,,,,,,,2,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79239&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
+2021-10-28,日間,1,,,1,,,,,,,,,,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79245&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
+2021-10-29,日間,,,,1,,,,,,,,,1,,,,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79249&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
+2021-10-31,日間,,1,,,,,,,,,,,,1,,1,,,,,,https://www.mnd.gov.tw/Publish.aspx?p=79251&title=%e5%9c%8b%e9%98%b2%e6%b6%88%e6%81%af&SelectStyle=%e5%8d%b3%e6%99%82%e8%bb%8d%e4%ba%8b%e5%8b%95%e6%85%8b
