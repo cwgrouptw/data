@@ -1,6 +1,6 @@
 - 檔案名稱：`apple-supplier-list.csv`
 - 資料描述：《天下》彙整2012年到2022年，蘋果官方公佈的供應鏈名單（Apple supplier list）
-- 資料來源：蘋果官方[網站](https://www.apple.com/supplier-responsibility/)
+- 資料來源：蘋果[官方網站](https://www.apple.com/supplier-responsibility/)
 - 欄位說明：
 
 | 欄位 | 描述|
