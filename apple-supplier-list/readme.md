@@ -16,7 +16,7 @@ apple-supplier-list
 | 欄位 | 描述|
 | -------- | -------- |
 | year     |   年份    |
-| supplier_name     | 供應商名稱    |
-| country_area     |  工廠所在區域     |
-| country     |  工廠所在國家     |
-| supplier_address    | 工廠地址     |
+| supplier_name     | 企業名稱    |
+| country_area     |  產地所屬區域     |
+| country     |  產地所屬國家     |
+| supplier_address    | 產地地址     |
